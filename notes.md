@@ -11,3 +11,6 @@
 # Cookie
     - Otima Maneira para persistir informações entre sessões e ter essa info tanto no back quanto no front
     - LocalStorage concede essa info so no front e não no back
+
+# Css
+    - colocar line-height : 0 em botões que são só ícones (ou elementos visuais que não são um texto) pois o tamanho do botão e definido com base no line-height e no font-size
