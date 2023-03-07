@@ -14,3 +14,6 @@
 
 # Css
     - colocar line-height : 0 em botões que são só ícones (ou elementos visuais que não são um texto) pois o tamanho do botão e definido com base no line-height e no font-size
+
+# Aula: Finalizando cálculo de dias
+    - 7:20 Explicação sobre reduce
